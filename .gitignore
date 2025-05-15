@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Output files
+clustered_ips_map.html
+
+# VS Code settings (optional, if you use VS Code)
+.vscode/
+
+# Environment files (if using virtual environments)
+venv/
+.env
